@@ -22,25 +22,24 @@ const About = () => {
           <article className='about__card'>
             <FaAward className='about__icon'/>
             <h5>Experience</h5>
-            <small>3+ Years Working</small>
+            <small>1+ Years Working</small>
           </article>
 
           <article className='about__card'>
             <FiUsers className='about__icon'/>
-            <h5>Clients</h5>
-            <small>200+ Worldwide </small>
+            <h5> Trainee Fullstack Developer</h5>
+            <small> with UI/UX </small>
           </article>
 
           <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
-            <h5>Experience</h5>
-            <small>3+ Years Working</small>
+            <h5>Projects</h5>
+            <small>9+ Projects</small>
           </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-             Pariatur ipsam vel beatae qui nesciunt fuga placeat. Labore maiores
-              voluptatibus amet in nulla et ullam, quae sit unde ipsum suscipit? Quis!
+            I am Imalsha Madushani third Year Undergraduate University of Ruhuna, Sri Lanka.
+            I want to be competitive fullstack developer in the industry and I have energy and the dedication for that.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
